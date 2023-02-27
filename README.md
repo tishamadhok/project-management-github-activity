@@ -13,17 +13,17 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Cloning a Repos[1]
-2.  Pushing to Github[2] 
-3.  Commits[1]
+1.  Cloning a Repos [1]
+2.  Pushing to Github [2] 
+3.  Commits [1]
 #### Things we don't understand
-1. Pull Requests [1]
-2. Merging [2]
-3. Docker Commands [1]
+1. Pull Requests  [1]
+2. Merging  [2]
+3. Docker Commands  [1]
 #### Things we want to know next**
-1.  Continuous Integration [1]
-2.  Continuous Deployment[2]
-3.  Agile and DevOps[1]
+1.  Continuous Integration  [1]
+2.  Continuous Deployment [2]
+3.  Agile  DevOps [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
